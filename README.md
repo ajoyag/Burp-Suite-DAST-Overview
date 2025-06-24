@@ -52,6 +52,3 @@ A special thanks to **Navaneethan K**, my mentor and friend, for supporting and 
 
 ## 🚀 Let’s Build a More Secure Web
 Modern cybersecurity is about making security an integral part of every phase of the software lifecycle. This experience has strengthened my resolve to help teams adopt best practices, integrate automated security testing, and build more resilient, secure applications.
-
----
-**#CyberSecurity #BurpSuiteDAST #InternshipExperience #ApplicationSecurity #DAST #PortSwigger #LearningByDoing**
