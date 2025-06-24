@@ -32,6 +32,11 @@ With this experience, I am now positioned to:
 
 ---
 
+## 📄 Additional Documentation
+For a more detailed understanding of the setup, workflow, and results, **please review the uploaded document** in this repository. It provides deeper insights into how Burp Suite DAST was implemented and configured, along with examples and best practices learned throughout the project.
+
+---
+
 ## 🙌 Acknowledgements
 A special thanks to **Navaneethan K**, my mentor and friend, for supporting and guiding me throughout this process, and to **PortSwigger** for creating such an impactful tool and making this learning experience rewarding and enriching.
 
